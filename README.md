@@ -1,0 +1,2 @@
+# GIS_model_of-_insect_settlement
+Пространственное распределение Leptinotarsa decemlineata и Podisus maculiventris
